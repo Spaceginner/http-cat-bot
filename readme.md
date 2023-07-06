@@ -9,7 +9,7 @@ commands:
 
 ## setup
 
-create `.env` and put in it your discord bot token and uhm, done.
+create `.env` and put in it your discord bot token (`TOKEN` variable) and uhm, done.
 
 ## launch
 
