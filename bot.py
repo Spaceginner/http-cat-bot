@@ -15,7 +15,6 @@ async def main():
     await bot.start(os.environ.get('TOKEN'))
 
 
-
 def launch():
     dotenv.load_dotenv()
 
